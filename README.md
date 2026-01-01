@@ -43,6 +43,8 @@ Building a custom game engine in Odin with SDL3. Learning systems programming, g
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-E74C3C?style=for-the-badge)
 ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset-FF6B35?style=for-the-badge)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ### Pipeline & Formats
 ![glTF](https://img.shields.io/badge/glTF-005F9E?style=for-the-badge)
